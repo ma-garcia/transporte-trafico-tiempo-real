@@ -40,7 +40,7 @@
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:cc="http://creativecommons.org/ns#">
     <owl:Ontology rdf:about="http://vocab.linkeddata.es/datosabiertos/def/transporte/trafico">
-        <dcterms:issued rdf:datatype="&xsd;dateTime">2015-06-21</dcterms:issued>
+        <dcterms:issued rdf:datatype="&xsd;dateTime">2015-06-20</dcterms:issued>
         <dc:date rdf:datatype="&xsd;dateTime">2015-06-21</dc:date>
         <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
         <owl:versionInfo xml:lang="es">Esta ontología surge de la necesidad de representar información detallada sobre el tráfico en una ciudad</owl:versionInfo>
